@@ -1,0 +1,10 @@
+﻿{
+  "name": "LoaderTrials",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Adds a new game mode for loader challenges",
+  "dependencies": [
+    "RiskofThunder-R2API_Prefab-1.0.3",
+    "RiskofThunder-R2API_ContentManagement-1.0.2"
+  ]
+}
